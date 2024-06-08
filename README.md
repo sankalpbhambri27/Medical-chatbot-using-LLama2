@@ -1,5 +1,6 @@
 # Medical-chatbot-using-LLama2
-Medical chatbot using LLama2
+Medical chatbot using LLama2. It allows users to chat with AI bot and ask questions related to medicines, diseases and diagnosis. 
+chatbot is RAG application build using Gen AI which uses Meta LLAMA2 model to generate correct responses.
 
 
 ## How to run?
